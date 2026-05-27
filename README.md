@@ -195,10 +195,10 @@ Ao unir **tecnologia, design centrado no usuário e compromisso social**, o Herm
 ---
 
 ## 🤝 Equipe
-Antonio Airlon da Silva Filho - 2025016882
-Antonio Lucas da Costa Pereira - 2025019042
-Everton Lucas Fernandes - 2025017020
-Felipe Alves Bezerra Neto - 2025017048
-Joenio Borges de Araújo - 2025017084
-Rubens Paulo Rodrigues Parente - 2025017262
+#### Antonio Airlon da Silva Filho - 2025016882
+#### Antonio Lucas da Costa Pereira - 2025019042
+#### Everton Lucas Fernandes - 2025017020
+#### Felipe Alves Bezerra Neto - 2025017048
+#### Joenio Borges de Araújo - 2025017084
+#### Rubens Paulo Rodrigues Parente - 2025017262
 
